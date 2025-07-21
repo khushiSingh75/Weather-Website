@@ -1,0 +1,12 @@
+# Weather Icons Directory
+
+This directory contains weather icons for the WeatherPro app.
+
+You should add the following weather icon files:
+- clearr.png (clear sky)
+- cloudyy.png (cloudy weather)
+- rain.png (rain)
+- drizzle.png (drizzle)
+- snow.png (snow)
+- haze.png (mist/haze/fog)
+- default.png (default fallback icon)
